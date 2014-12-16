@@ -29,6 +29,11 @@ Enjoy getting things done, and sharing the news.
 1. Edit the _ProjectSummary.scpt_ if you want to change the project report filename.  Default value is _~/Downloads/project.md_
 2. Move the _ProjectSummary.scpt_ file into one of the AppleScript Directories.
 
+**TIP:** You can also create a symbolic link to the scot file from the AppleScript Things directory with a command similar to the following:
+
+    ln -s local-repo/ProjectSummary.scpt /User/username/Library/Scripts/Applications/Things/ProjectSummary.scpt
+
+
 ## Contributors
 
 Help make this project better.  Jump on in at [http://github.com/troypesola/things-md-project-summary](http://github.com/troypesola/things-md-project-summary)
