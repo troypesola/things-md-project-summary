@@ -31,8 +31,11 @@ Enjoy getting things done, and sharing the news.
 
 ## Contributors
 
-Help make this project better.  Jump on in at github.com/things-md-project-summary
+Help make this project better.  Jump on in at [http://github.com/troypesola/things-md-project-summary](http://github.com/troypesola/things-md-project-summary)
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+[Licensed under the The MIT License (MIT).](LICENSE)
+
+Copyright (c) 2014, Troy R. Pesola
+
